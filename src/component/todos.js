@@ -26,7 +26,7 @@ const Todos = ({ todos, deleteTodo }) => {
       );
     })
   ) : (
-    <p>You have no todos left</p>
+    <p>You have no todo's left</p>
   );
 
   return (
